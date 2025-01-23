@@ -3,17 +3,17 @@
 </h1> 
   
 <h2
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=F79541&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Computer+science+developer" alt="Typing SVG" />
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=F79541&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Computer+science+developer" alt="Typing SVG" />
 </h2>
 
 <!--контакты-->
 
 
   <ul>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=2500&color=000000&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=🍻+my+contacts%3A&" alt="Typing SVG"  /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=10000&color=000000&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=🍻+my+contacts%3A&" alt="Typing SVG"  /> 
   
 <ol
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=2500&color=1E90FF&vCenter=false&multiline=true&repeat=true&width=500&height=30&lines=telegram%3A" alt="Typing SVG"/></ol>
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=10000&color=1E90FF&vCenter=false&multiline=true&repeat=true&width=500&height=30&lines=telegram%3A" alt="Typing SVG"/></ol>
 <div id="badges">
   <a href="https://t.me/Ratikept">
     <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -21,7 +21,7 @@
   
     
 <ol
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=2500&color=F79541&vCenter=false&multiline=true&repeat=true&width=500&height=30&lines=email%3A" alt="Typing SVG"/></ol>
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=10000&color=F79541&vCenter=false&multiline=true&repeat=true&width=500&height=30&lines=email%3A" alt="Typing SVG"/></ol>
 	
    <a href="https://ratik06@yandex.ru">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -30,14 +30,14 @@
 <!--заголовок "обо мне"-->
 
 <h3
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=2500&color=000000&vCenter=true&repeat=true&width=500&height=30&lines=📄+about+me%3A" alt="Typing SVG"/>
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=10000&color=000000&vCenter=true&repeat=true&width=500&height=30&lines=📄+about+me%3A" alt="Typing SVG"/>
 </h3>
 <!--обо мне--> 
 <ol>I'm a beginner programmer. I am very interested in the field of data analysis and machine learning. I believe that this is an extremely promising industry that will actively grow and develop in the coming years, and I, as a programmer, will develop and learn along with this industry.</ul>
 
 <!--библиотееки-->
 <ul
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=2500&color=000000&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=🗃️+Languages+and+Tools%3A" alt="Typing SVG" /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=10000&color=000000&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=🗃️+Languages+and+Tools%3A" alt="Typing SVG" /> 
 
 
 
