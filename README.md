@@ -10,7 +10,7 @@
 
 
   <ul>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=000000&vCenter=true&multiline=true&repeat=false&width=500&height=30&lines=my+contacts%3A" alt="Typing SVG" /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=000000&vCenter=true&multiline=true&repeat=false&width=500&height=30&lines=🍻+my+contacts%3A&" alt="Typing SVG"  /> 
   
 <ol
   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=1E90FF&vCenter=false&multiline=true&repeat=false&width=500&height=30&lines=telegram%3A" alt="Typing SVG"/></ol>
@@ -30,14 +30,14 @@
 <!--заголовок "обо мне"-->
 
 <h3
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=000000&vCenter=true&repeat=false&width=500&height=30&lines=about+me%3A" alt="Typing SVG"/>
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=000000&vCenter=true&repeat=false&width=500&height=30&lines=📄+about+me%3A" alt="Typing SVG"/>
 </h3>
 <!--обо мне--> 
 <ol>I'm a beginner programmer. I am very interested in the field of data analysis and machine learning. I believe that this is an extremely promising industry that will actively grow and develop in the coming years, and I, as a programmer, will develop and learn along with this industry.</ul>
 
 <!--библиотееки-->
 <ul
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=000000&vCenter=true&multiline=true&repeat=false&width=500&height=30&lines=Languages+and+Tools%3A" alt="Typing SVG" /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=000000&vCenter=true&multiline=true&repeat=false&width=500&height=30&lines=🗃️+Languages+and+Tools%3A" alt="Typing SVG" /> 
 
 
 
