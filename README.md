@@ -10,7 +10,7 @@
 
 
   <ul>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=5000&color=F79541&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=🍻+my+contacts%3A&" alt="Typing SVG"  /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=5000&color=F79541&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=🍻+my+contacts%3A&" alt="Typing SVG"  /> 
   
 <ol
   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=5000&color=1E90FF&vCenter=false&multiline=true&repeat=true&width=500&height=30&lines=telegram%3A" alt="Typing SVG"/></ol>
@@ -37,7 +37,7 @@
 
 <!--библиотееки-->
 <ul
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=5000&color=F79541&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=🗃️+Languages+and+Tools%3A" alt="Typing SVG" /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=5000&color=F79541&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=🗃️+Languages+and+Tools%3A" alt="Typing SVG" /> 
 
 
 
