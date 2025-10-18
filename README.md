@@ -15,7 +15,7 @@
 <ol
   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=5000&color=1E90FF&vCenter=false&multiline=true&repeat=true&width=500&height=30&lines=telegram%3A" alt="Typing SVG"/></ol>
 <div id="badges">
-  <a href="https://t.me/Ratikept">
+  <a href="https://t.me/Ratimir_Ershov">
     <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
